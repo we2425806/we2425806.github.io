@@ -1,5 +1,5 @@
 # Site settings
-title: we2425806
+title: 覃京保的博客
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,9 +10,9 @@ url: "https://we2425806.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: we2425806
-  googleplus: https://www.google.com/+MotaquillahMaddane
+  googleplus:
   github: we2425806
-  twitter: electrik_frog
+  twitter: 
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
