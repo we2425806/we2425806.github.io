@@ -5,11 +5,11 @@ description: >
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "http://we2425806.github.io" # the subpath of your site, e.g. /blog/
-url: "http://we2425806.github.io" # the base hostname & protocol for your site
+baseurl: "https://we2425806.github.io" # the subpath of your site, e.g. /blog/
+url: "https://we2425806.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
+  fullname: we2425806
   googleplus: https://www.google.com/+MotaquillahMaddane
   github: we2425806
   twitter: electrik_frog
