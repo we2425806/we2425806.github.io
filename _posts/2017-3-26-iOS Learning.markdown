@@ -1,23 +1,26 @@
 ---
 layout: post
 title:  "iOS学习-Cocoa Touch 框架"
-subtitle: "Cocoa Tounch 中的框架"
-date:   2014-08-19 23:56:45
+subtitle: "Cocoa Animation 让你的APP动起来"
+date:   2017-03-26 21:10:45
 categories: [tool]
 ---
 
-Just a sample post to show some of the *typography* elements supported from
-**daktilo** theme.
 
-___
+# Cocoa Tounch 中最常用的框架
 
-A blockquote:
+常用框架一览：
+- Core Animation 框架 (核心动画框架)
+- Core Audio 框架 （核心音频框架）
+- Core Data 框架 （核心数据框架）.
 
-> We are Hitchhikers in the road of open source knowledge.
+> 以上就是 Cocoa Tounch 框架中常用框架，可以说他们是一个APP中的三大支柱。
 
-## Header 2
+————————
 
-Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.
+## Core Aimation 框架
+
+通过 Core Animation 我们可以实现一些酷炫的动画效果，提升用户的使用体验。
 
 
 Example code:
@@ -33,30 +36,5 @@ s.storeAndExecute(switchDown);
 {% endhighlight %}
 
 
-A list:
-
-- Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc
-- Donec ante est, volutpat in mi et, pulvinar congue dolor.
-- Quisque ultrices pulvinar sollicitudin.
-- Duis elementum odio eu euismod suscipit.
-- Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.
-
-A numbered list:
-
-1. Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc.
-2. Donec ante est, volutpat in mi et, pulvinar congue dolor.
-3. Quisque ultrices pulvinar sollicitudin.
-4. Duis elementum odio eu euismod suscipit.
-5. Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.
-
-Definition list:
-
-Curabitur cursus magna eu sem cursus
-: ac ultrices urna pharetra.
-: Duis scelerisque ipsum eu luctus elementum.
-
-Pellentesque habitant morbi tristique senectus
-: Curabitur malesuada lacus ac gravida porttitor
-: Duis sodales feugiat lorem et mollis.
 
 Want to suggest something? Please [Send me a request](https://github.com/kronik3r/daktilo/issues/new).
